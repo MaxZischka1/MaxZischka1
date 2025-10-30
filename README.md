@@ -24,9 +24,9 @@ In my personal time, I love working on electronics projects — from building ci
 
 
 ### 📫 Connect with Me
-LinkedIn: [linkedin.com/in/maxzischka](https://linkedin.com/in/maxzischka)
+LinkedIn: [linkedin.com/in/max-zischka](https://www.linkedin.com/in/max-zischka/)
 
-Email: [max.zischka@gmail.com](mailto:max.zischka@gmail.com)
+Email: [maximilian.zischka@mail.mcgill.ca](maximilian.zischka@mail.mcgill.ca)
 
 
 
