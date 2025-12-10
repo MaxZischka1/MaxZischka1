@@ -19,9 +19,6 @@ In my personal time, I love working on electronics projects — from building ci
 ![Quartus Prime](https://img.shields.io/badge/Quartus-0078D4?style=flat)
 
 
-### 🧩 Featured Projects
-- [**AVR-Assembly-Double-Dabble**] https://github.com/MaxZischka1/AVR-Assembly-Double-Dabble
-
 
 ### 📫 Connect with Me
 LinkedIn: [linkedin.com/in/max-zischka](https://www.linkedin.com/in/max-zischka/)
